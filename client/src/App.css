@@ -1,0 +1,45 @@
+.App-header {
+  background-color: #282c34;
+  min-height: 15vh;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-body {
+  background-color: #40ddf8;
+  min-height: 85vh;
+  display:flexbox;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+
+}
+
+
+.App-login {
+  background-color: #f29e1f;
+  margin-top: 50px;
+  min-width: 250px;
+  min-height: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+
+}
+
+.ex1
+{
+  border: 2px solid red;
+  margin-top: 20%;
+  margin-bottom: 20%;
+  margin-left: 30%;
+  margin-right: 30%;
+  text-align: center;
+  line-height: 0%;
+}
+
